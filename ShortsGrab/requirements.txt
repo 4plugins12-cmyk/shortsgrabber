@@ -1,0 +1,8 @@
+yt-dlp[default,curl-cffi]
+customtkinter>=5.2
+imageio-ffmpeg
+mutagen
+pillow
+numpy
+scipy
+sounddevice
